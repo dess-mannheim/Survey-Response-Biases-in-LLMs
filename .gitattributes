@@ -1,0 +1,3 @@
+# assets/final_interviews/*.csv filter=lfs diff=lfs merge=lfs -text
+# assets/20241029_selected_questionnaire.xlsx filter=lfs diff=lfs merge=lfs -text
+* !text !filter !merge !diff

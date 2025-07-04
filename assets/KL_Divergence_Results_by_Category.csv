@@ -1,0 +1,901 @@
+,Category,Question,Model,Type,KL Divergence
+0,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Missing Refusal,2.19
+1,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Even Scale,0.21
+2,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Reversed Answer Options,2.19
+3,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Emotional Priming,2.19
+4,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Key Typos,11.31
+5,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Letter Swap,2.84
+6,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Synonyms,9.27
+7,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Paraphrase,7.87
+8,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Keyboard Typos,2.2
+9,Importance of Life Aspects,Q6,Llama-3.3-70B-Instruct,Paraphrase x Reversed,7.87
+10,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Missing Refusal,0.11
+11,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Even Scale,0.67
+12,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Reversed Answer Options,4.27
+13,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Emotional Priming,8.68
+14,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Key Typos,2.18
+15,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Letter Swap,0.2
+16,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Synonyms,0.81
+17,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Paraphrase,3.4
+18,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Keyboard Typos,2.36
+19,Importance of Life Aspects,Q6,Llama-3.1-8B-Instruct,Paraphrase x Reversed,5.41
+20,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Missing Refusal,0.29
+21,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Even Scale,1.7
+22,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Reversed Answer Options,2.42
+23,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Emotional Priming,0.26
+24,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Key Typos,7.12
+25,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Letter Swap,3.73
+26,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Synonyms,1.75
+27,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Paraphrase,2.58
+28,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Keyboard Typos,3.31
+29,Importance of Life Aspects,Q6,Llama-3.2-3B-Instruct,Paraphrase x Reversed,3.5
+30,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Missing Refusal,2.49
+31,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Even Scale,1.43
+32,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Reversed Answer Options,2.8
+33,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Emotional Priming,4.3
+34,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Key Typos,4.09
+35,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Letter Swap,3.76
+36,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Synonyms,2.75
+37,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Paraphrase,4.38
+38,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Keyboard Typos,3.1
+39,Importance of Life Aspects,Q6,Llama-3.2-1B-Instruct,Paraphrase x Reversed,4.28
+40,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Missing Refusal,0.0
+41,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Even Scale,2.84
+42,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Reversed Answer Options,0.0
+43,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Emotional Priming,2.84
+44,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Key Typos,2.84
+45,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Letter Swap,2.84
+46,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Synonyms,2.84
+47,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Paraphrase,0.0
+48,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Keyboard Typos,2.84
+49,Importance of Life Aspects,Q6,Gemini-1.5-Pro,Paraphrase x Reversed,5.68
+50,Importance of Life Aspects,Q6,Phi-3.5-mini,Missing Refusal,0.0
+51,Importance of Life Aspects,Q6,Phi-3.5-mini,Even Scale,2.84
+52,Importance of Life Aspects,Q6,Phi-3.5-mini,Reversed Answer Options,2.84
+53,Importance of Life Aspects,Q6,Phi-3.5-mini,Emotional Priming,2.84
+54,Importance of Life Aspects,Q6,Phi-3.5-mini,Key Typos,2.84
+55,Importance of Life Aspects,Q6,Phi-3.5-mini,Letter Swap,0.0
+56,Importance of Life Aspects,Q6,Phi-3.5-mini,Synonyms,5.68
+57,Importance of Life Aspects,Q6,Phi-3.5-mini,Paraphrase,8.52
+58,Importance of Life Aspects,Q6,Phi-3.5-mini,Keyboard Typos,8.52
+59,Importance of Life Aspects,Q6,Phi-3.5-mini,Paraphrase x Reversed,2.84
+60,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Missing Refusal,2.84
+61,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Even Scale,0.0
+62,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Reversed Answer Options,0.0
+63,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Emotional Priming,5.68
+64,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Key Typos,5.68
+65,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Letter Swap,0.0
+66,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Synonyms,2.84
+67,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Paraphrase,5.68
+68,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Keyboard Typos,5.68
+69,Importance of Life Aspects,Q6,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,5.68
+70,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Missing Refusal,4.78
+71,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Even Scale,0.64
+72,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Reversed Answer Options,4.8
+73,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Emotional Priming,2.74
+74,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Key Typos,0.73
+75,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Letter Swap,2.74
+76,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Synonyms,3.54
+77,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Paraphrase,2.74
+78,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Keyboard Typos,2.76
+79,Importance of Life Aspects,Q6,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,4.8
+80,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Missing Refusal,0.0
+81,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Even Scale,0.0
+82,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Reversed Answer Options,2.84
+83,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Emotional Priming,0.0
+84,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Key Typos,8.52
+85,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Letter Swap,5.68
+86,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Synonyms,5.68
+87,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Paraphrase,11.36
+88,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Keyboard Typos,11.36
+89,Importance of Life Aspects,Q6,Yi-1.5-6B-Chat,Paraphrase x Reversed,8.52
+90,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Missing Refusal,0.03
+91,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Even Scale,10.72
+92,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Reversed Answer Options,10.21
+93,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Emotional Priming,4.43
+94,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Key Typos,7.27
+95,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Letter Swap,3.86
+96,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Synonyms,4.43
+97,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Paraphrase,4.07
+98,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Keyboard Typos,3.86
+99,Social and Cultural Norms,Q41,Llama-3.3-70B-Instruct,Paraphrase x Reversed,9.57
+100,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Missing Refusal,0.85
+101,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Even Scale,1.44
+102,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Reversed Answer Options,1.17
+103,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Emotional Priming,0.51
+104,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Key Typos,4.25
+105,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Letter Swap,4.04
+106,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Synonyms,1.98
+107,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Paraphrase,2.92
+108,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Keyboard Typos,4.65
+109,Social and Cultural Norms,Q41,Llama-3.1-8B-Instruct,Paraphrase x Reversed,3.04
+110,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Missing Refusal,1.42
+111,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Even Scale,3.43
+112,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Reversed Answer Options,1.81
+113,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Emotional Priming,2.37
+114,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Key Typos,2.82
+115,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Letter Swap,1.14
+116,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Synonyms,0.67
+117,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Paraphrase,1.0
+118,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Keyboard Typos,2.81
+119,Social and Cultural Norms,Q41,Llama-3.2-3B-Instruct,Paraphrase x Reversed,3.7
+120,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Missing Refusal,0.01
+121,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Even Scale,0.14
+122,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Reversed Answer Options,0.88
+123,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Emotional Priming,0.06
+124,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Key Typos,3.33
+125,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Letter Swap,0.48
+126,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Synonyms,0.0
+127,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Paraphrase,0.31
+128,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Keyboard Typos,0.7
+129,Social and Cultural Norms,Q41,Llama-3.2-1B-Instruct,Paraphrase x Reversed,7.13
+130,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Missing Refusal,0.0
+131,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Even Scale,8.55
+132,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Reversed Answer Options,2.85
+133,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Emotional Priming,0.0
+134,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Key Typos,2.84
+135,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Letter Swap,2.84
+136,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Synonyms,0.01
+137,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Paraphrase,11.36
+138,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Keyboard Typos,0.0
+139,Social and Cultural Norms,Q41,Gemini-1.5-Pro,Paraphrase x Reversed,17.03
+140,Social and Cultural Norms,Q41,Phi-3.5-mini,Missing Refusal,2.84
+141,Social and Cultural Norms,Q41,Phi-3.5-mini,Even Scale,8.52
+142,Social and Cultural Norms,Q41,Phi-3.5-mini,Reversed Answer Options,8.52
+143,Social and Cultural Norms,Q41,Phi-3.5-mini,Emotional Priming,5.68
+144,Social and Cultural Norms,Q41,Phi-3.5-mini,Key Typos,14.2
+145,Social and Cultural Norms,Q41,Phi-3.5-mini,Letter Swap,5.68
+146,Social and Cultural Norms,Q41,Phi-3.5-mini,Synonyms,2.84
+147,Social and Cultural Norms,Q41,Phi-3.5-mini,Paraphrase,11.36
+148,Social and Cultural Norms,Q41,Phi-3.5-mini,Keyboard Typos,5.68
+149,Social and Cultural Norms,Q41,Phi-3.5-mini,Paraphrase x Reversed,11.36
+150,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Missing Refusal,0.0
+151,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Even Scale,5.68
+152,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Reversed Answer Options,8.52
+153,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Emotional Priming,2.84
+154,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Key Typos,8.52
+155,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Letter Swap,5.68
+156,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Synonyms,8.52
+157,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Paraphrase,2.84
+158,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Keyboard Typos,5.68
+159,Social and Cultural Norms,Q41,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,11.36
+160,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Missing Refusal,1.18
+161,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Even Scale,7.0
+162,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Reversed Answer Options,6.82
+163,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Emotional Priming,3.54
+164,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Key Typos,7.78
+165,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Letter Swap,4.7
+166,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Synonyms,5.71
+167,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Paraphrase,7.54
+168,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Keyboard Typos,12.77
+169,Social and Cultural Norms,Q41,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,7.54
+170,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Missing Refusal,8.52
+171,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Even Scale,5.68
+172,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Reversed Answer Options,11.36
+173,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Emotional Priming,17.03
+174,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Key Typos,8.52
+175,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Letter Swap,11.36
+176,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Synonyms,2.84
+177,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Paraphrase,11.36
+178,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Keyboard Typos,11.36
+179,Social and Cultural Norms,Q41,Yi-1.5-6B-Chat,Paraphrase x Reversed,14.2
+180,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Missing Refusal,0.0
+181,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Even Scale,0.0
+182,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Reversed Answer Options,0.03
+183,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Emotional Priming,0.0
+184,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Key Typos,2.84
+185,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Letter Swap,0.0
+186,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Synonyms,2.84
+187,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Paraphrase,0.97
+188,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Keyboard Typos,0.21
+189,Trust in People and Groups,Q63,Llama-3.3-70B-Instruct,Paraphrase x Reversed,2.84
+190,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Missing Refusal,2.57
+191,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Even Scale,3.39
+192,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Reversed Answer Options,11.11
+193,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Emotional Priming,3.12
+194,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Key Typos,3.22
+195,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Letter Swap,0.64
+196,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Synonyms,0.33
+197,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Paraphrase,0.95
+198,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Keyboard Typos,3.54
+199,Trust in People and Groups,Q63,Llama-3.1-8B-Instruct,Paraphrase x Reversed,16.77
+200,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Missing Refusal,0.74
+201,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Even Scale,0.4
+202,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Reversed Answer Options,0.46
+203,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Emotional Priming,8.21
+204,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Key Typos,11.12
+205,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Letter Swap,0.46
+206,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Synonyms,5.83
+207,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Paraphrase,6.08
+208,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Keyboard Typos,0.4
+209,Trust in People and Groups,Q63,Llama-3.2-3B-Instruct,Paraphrase x Reversed,5.82
+210,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Missing Refusal,1.34
+211,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Even Scale,2.41
+212,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Reversed Answer Options,0.61
+213,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Emotional Priming,2.89
+214,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Key Typos,1.1
+215,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Letter Swap,1.49
+216,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Synonyms,1.32
+217,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Paraphrase,0.94
+218,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Keyboard Typos,1.28
+219,Trust in People and Groups,Q63,Llama-3.2-1B-Instruct,Paraphrase x Reversed,0.86
+220,Trust in People and Groups,Q63,Gemini-1.5-Pro,Missing Refusal,2.98
+221,Trust in People and Groups,Q63,Gemini-1.5-Pro,Even Scale,0.01
+222,Trust in People and Groups,Q63,Gemini-1.5-Pro,Reversed Answer Options,3.06
+223,Trust in People and Groups,Q63,Gemini-1.5-Pro,Emotional Priming,2.93
+224,Trust in People and Groups,Q63,Gemini-1.5-Pro,Key Typos,3.12
+225,Trust in People and Groups,Q63,Gemini-1.5-Pro,Letter Swap,0.14
+226,Trust in People and Groups,Q63,Gemini-1.5-Pro,Synonyms,6.07
+227,Trust in People and Groups,Q63,Gemini-1.5-Pro,Paraphrase,11.86
+228,Trust in People and Groups,Q63,Gemini-1.5-Pro,Keyboard Typos,8.68
+229,Trust in People and Groups,Q63,Gemini-1.5-Pro,Paraphrase x Reversed,11.21
+230,Trust in People and Groups,Q63,Phi-3.5-mini,Missing Refusal,0.0
+231,Trust in People and Groups,Q63,Phi-3.5-mini,Even Scale,0.0
+232,Trust in People and Groups,Q63,Phi-3.5-mini,Reversed Answer Options,5.68
+233,Trust in People and Groups,Q63,Phi-3.5-mini,Emotional Priming,0.0
+234,Trust in People and Groups,Q63,Phi-3.5-mini,Key Typos,8.52
+235,Trust in People and Groups,Q63,Phi-3.5-mini,Letter Swap,11.36
+236,Trust in People and Groups,Q63,Phi-3.5-mini,Synonyms,5.68
+237,Trust in People and Groups,Q63,Phi-3.5-mini,Paraphrase,5.68
+238,Trust in People and Groups,Q63,Phi-3.5-mini,Keyboard Typos,8.52
+239,Trust in People and Groups,Q63,Phi-3.5-mini,Paraphrase x Reversed,11.36
+240,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Missing Refusal,2.84
+241,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Even Scale,5.68
+242,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Reversed Answer Options,5.68
+243,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Emotional Priming,2.84
+244,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Key Typos,2.84
+245,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Letter Swap,2.84
+246,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Synonyms,8.52
+247,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Paraphrase,5.68
+248,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Keyboard Typos,0.0
+249,Trust in People and Groups,Q63,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,5.68
+250,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Missing Refusal,6.81
+251,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Even Scale,1.21
+252,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Reversed Answer Options,4.14
+253,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Emotional Priming,4.47
+254,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Key Typos,9.65
+255,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Letter Swap,4.05
+256,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Synonyms,15.33
+257,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Paraphrase,11.36
+258,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Keyboard Typos,9.65
+259,Trust in People and Groups,Q63,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,9.65
+260,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Missing Refusal,5.68
+261,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Even Scale,2.84
+262,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Reversed Answer Options,5.68
+263,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Emotional Priming,5.68
+264,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Key Typos,11.36
+265,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Letter Swap,8.52
+266,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Synonyms,8.52
+267,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Paraphrase,14.2
+268,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Keyboard Typos,8.52
+269,Trust in People and Groups,Q63,Yi-1.5-6B-Chat,Paraphrase x Reversed,11.36
+270,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Missing Refusal,0.2
+271,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Even Scale,1.67
+272,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Reversed Answer Options,12.26
+273,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Emotional Priming,4.87
+274,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Key Typos,2.89
+275,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Letter Swap,7.3
+276,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Synonyms,4.89
+277,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Paraphrase,2.58
+278,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Keyboard Typos,2.66
+279,Confidence in Institutions,Q72,Llama-3.3-70B-Instruct,Paraphrase x Reversed,17.03
+280,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Missing Refusal,0.04
+281,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Even Scale,0.33
+282,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Reversed Answer Options,3.18
+283,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Emotional Priming,0.54
+284,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Key Typos,0.97
+285,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Letter Swap,0.11
+286,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Synonyms,0.16
+287,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Paraphrase,2.88
+288,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Keyboard Typos,0.46
+289,Confidence in Institutions,Q72,Llama-3.1-8B-Instruct,Paraphrase x Reversed,12.25
+290,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Missing Refusal,3.34
+291,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Even Scale,1.31
+292,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Reversed Answer Options,2.68
+293,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Emotional Priming,2.06
+294,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Key Typos,4.32
+295,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Letter Swap,6.99
+296,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Synonyms,2.56
+297,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Paraphrase,2.34
+298,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Keyboard Typos,4.62
+299,Confidence in Institutions,Q72,Llama-3.2-3B-Instruct,Paraphrase x Reversed,6.34
+300,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Missing Refusal,1.85
+301,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Even Scale,7.91
+302,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Reversed Answer Options,7.32
+303,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Emotional Priming,5.55
+304,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Key Typos,0.68
+305,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Letter Swap,2.37
+306,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Synonyms,2.27
+307,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Paraphrase,4.11
+308,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Keyboard Typos,4.84
+309,Confidence in Institutions,Q72,Llama-3.2-1B-Instruct,Paraphrase x Reversed,9.14
+310,Confidence in Institutions,Q72,Gemini-1.5-Pro,Missing Refusal,11.11
+311,Confidence in Institutions,Q72,Gemini-1.5-Pro,Even Scale,6.63
+312,Confidence in Institutions,Q72,Gemini-1.5-Pro,Reversed Answer Options,5.74
+313,Confidence in Institutions,Q72,Gemini-1.5-Pro,Emotional Priming,6.27
+314,Confidence in Institutions,Q72,Gemini-1.5-Pro,Key Typos,9.63
+315,Confidence in Institutions,Q72,Gemini-1.5-Pro,Letter Swap,5.89
+316,Confidence in Institutions,Q72,Gemini-1.5-Pro,Synonyms,2.96
+317,Confidence in Institutions,Q72,Gemini-1.5-Pro,Paraphrase,8.18
+318,Confidence in Institutions,Q72,Gemini-1.5-Pro,Keyboard Typos,6.21
+319,Confidence in Institutions,Q72,Gemini-1.5-Pro,Paraphrase x Reversed,16.82
+320,Confidence in Institutions,Q72,Phi-3.5-mini,Missing Refusal,0.0
+321,Confidence in Institutions,Q72,Phi-3.5-mini,Even Scale,2.43
+322,Confidence in Institutions,Q72,Phi-3.5-mini,Reversed Answer Options,17.03
+323,Confidence in Institutions,Q72,Phi-3.5-mini,Emotional Priming,2.43
+324,Confidence in Institutions,Q72,Phi-3.5-mini,Key Typos,12.17
+325,Confidence in Institutions,Q72,Phi-3.5-mini,Letter Swap,9.73
+326,Confidence in Institutions,Q72,Phi-3.5-mini,Synonyms,4.87
+327,Confidence in Institutions,Q72,Phi-3.5-mini,Paraphrase,7.3
+328,Confidence in Institutions,Q72,Phi-3.5-mini,Keyboard Typos,14.6
+329,Confidence in Institutions,Q72,Phi-3.5-mini,Paraphrase x Reversed,17.03
+330,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Missing Refusal,0.0
+331,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Even Scale,0.0
+332,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Reversed Answer Options,4.87
+333,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Emotional Priming,9.73
+334,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Key Typos,12.17
+335,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Letter Swap,7.3
+336,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Synonyms,0.0
+337,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Paraphrase,14.6
+338,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Keyboard Typos,12.17
+339,Confidence in Institutions,Q72,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,17.03
+340,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Missing Refusal,4.87
+341,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Even Scale,0.0
+342,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Reversed Answer Options,2.66
+343,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Emotional Priming,0.43
+344,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Key Typos,7.44
+345,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Letter Swap,0.0
+346,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Synonyms,0.28
+347,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Paraphrase,7.3
+348,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Keyboard Typos,7.37
+349,Confidence in Institutions,Q72,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,4.91
+350,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Missing Refusal,2.43
+351,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Even Scale,2.43
+352,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Reversed Answer Options,2.43
+353,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Emotional Priming,12.17
+354,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Key Typos,9.73
+355,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Letter Swap,7.3
+356,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Synonyms,4.87
+357,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Paraphrase,12.17
+358,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Keyboard Typos,12.17
+359,Confidence in Institutions,Q72,Yi-1.5-6B-Chat,Paraphrase x Reversed,14.6
+360,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Missing Refusal,8.94
+361,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Even Scale,2.84
+362,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Reversed Answer Options,17.03
+363,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Emotional Priming,0.0
+364,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Key Typos,11.53
+365,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Letter Swap,0.0
+366,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Synonyms,8.6
+367,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Paraphrase,0.0
+368,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Keyboard Typos,8.95
+369,Active or Inactive Membership,Q99,Llama-3.3-70B-Instruct,Paraphrase x Reversed,8.56
+370,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Missing Refusal,1.44
+371,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Even Scale,2.04
+372,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Reversed Answer Options,7.42
+373,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Emotional Priming,1.59
+374,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Key Typos,1.01
+375,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Letter Swap,1.52
+376,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Synonyms,3.81
+377,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Paraphrase,2.29
+378,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Keyboard Typos,2.52
+379,Active or Inactive Membership,Q99,Llama-3.1-8B-Instruct,Paraphrase x Reversed,2.67
+380,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Missing Refusal,0.3
+381,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Even Scale,6.76
+382,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Reversed Answer Options,1.81
+383,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Emotional Priming,4.65
+384,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Key Typos,6.89
+385,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Letter Swap,9.28
+386,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Synonyms,6.34
+387,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Paraphrase,8.87
+388,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Keyboard Typos,5.87
+389,Active or Inactive Membership,Q99,Llama-3.2-3B-Instruct,Paraphrase x Reversed,8.23
+390,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Missing Refusal,1.64
+391,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Even Scale,7.71
+392,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Reversed Answer Options,13.78
+393,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Emotional Priming,2.23
+394,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Key Typos,1.85
+395,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Letter Swap,1.34
+396,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Synonyms,0.7
+397,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Paraphrase,1.1
+398,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Keyboard Typos,0.94
+399,Active or Inactive Membership,Q99,Llama-3.2-1B-Instruct,Paraphrase x Reversed,12.73
+400,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Missing Refusal,0.0
+401,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Even Scale,0.0
+402,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Reversed Answer Options,0.0
+403,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Emotional Priming,2.88
+404,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Key Typos,2.84
+405,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Letter Swap,0.0
+406,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Synonyms,8.52
+407,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Paraphrase,0.0
+408,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Keyboard Typos,5.68
+409,Active or Inactive Membership,Q99,Gemini-1.5-Pro,Paraphrase x Reversed,17.03
+410,Active or Inactive Membership,Q99,Phi-3.5-mini,Missing Refusal,5.68
+411,Active or Inactive Membership,Q99,Phi-3.5-mini,Even Scale,11.36
+412,Active or Inactive Membership,Q99,Phi-3.5-mini,Reversed Answer Options,2.84
+413,Active or Inactive Membership,Q99,Phi-3.5-mini,Emotional Priming,0.0
+414,Active or Inactive Membership,Q99,Phi-3.5-mini,Key Typos,11.36
+415,Active or Inactive Membership,Q99,Phi-3.5-mini,Letter Swap,11.36
+416,Active or Inactive Membership,Q99,Phi-3.5-mini,Synonyms,11.36
+417,Active or Inactive Membership,Q99,Phi-3.5-mini,Paraphrase,5.68
+418,Active or Inactive Membership,Q99,Phi-3.5-mini,Keyboard Typos,14.2
+419,Active or Inactive Membership,Q99,Phi-3.5-mini,Paraphrase x Reversed,8.52
+420,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Missing Refusal,8.52
+421,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Even Scale,5.68
+422,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Reversed Answer Options,17.03
+423,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Emotional Priming,11.36
+424,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Key Typos,11.36
+425,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Letter Swap,11.36
+426,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Synonyms,8.52
+427,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Paraphrase,11.36
+428,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Keyboard Typos,11.36
+429,Active or Inactive Membership,Q99,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,11.36
+430,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Missing Refusal,3.24
+431,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Even Scale,8.63
+432,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Reversed Answer Options,9.64
+433,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Emotional Priming,11.43
+434,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Key Typos,3.0
+435,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Letter Swap,2.94
+436,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Synonyms,0.0
+437,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Paraphrase,14.41
+438,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Keyboard Typos,5.68
+439,Active or Inactive Membership,Q99,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,17.03
+440,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Missing Refusal,0.0
+441,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Even Scale,14.2
+442,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Reversed Answer Options,17.03
+443,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Emotional Priming,5.68
+444,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Key Typos,2.84
+445,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Letter Swap,0.0
+446,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Synonyms,0.0
+447,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Paraphrase,5.68
+448,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Keyboard Typos,0.0
+449,Active or Inactive Membership,Q99,Yi-1.5-6B-Chat,Paraphrase x Reversed,17.03
+450,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Missing Refusal,3.07
+451,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Even Scale,5.68
+452,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Reversed Answer Options,2.84
+453,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Emotional Priming,0.0
+454,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Key Typos,5.79
+455,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Letter Swap,0.0
+456,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Synonyms,8.52
+457,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Paraphrase,8.52
+458,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Keyboard Typos,2.84
+459,Immigration and its Effects,Q129,Llama-3.3-70B-Instruct,Paraphrase x Reversed,11.36
+460,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Missing Refusal,2.33
+461,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Even Scale,6.05
+462,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Reversed Answer Options,5.29
+463,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Emotional Priming,0.73
+464,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Key Typos,2.68
+465,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Letter Swap,2.92
+466,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Synonyms,0.15
+467,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Paraphrase,2.81
+468,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Keyboard Typos,3.31
+469,Immigration and its Effects,Q129,Llama-3.1-8B-Instruct,Paraphrase x Reversed,7.85
+470,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Missing Refusal,1.88
+471,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Even Scale,2.06
+472,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Reversed Answer Options,7.91
+473,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Emotional Priming,1.77
+474,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Key Typos,0.82
+475,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Letter Swap,0.66
+476,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Synonyms,0.29
+477,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Paraphrase,1.47
+478,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Keyboard Typos,0.94
+479,Immigration and its Effects,Q129,Llama-3.2-3B-Instruct,Paraphrase x Reversed,11.36
+480,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Missing Refusal,3.07
+481,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Even Scale,6.91
+482,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Reversed Answer Options,14.87
+483,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Emotional Priming,4.53
+484,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Key Typos,2.74
+485,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Letter Swap,1.31
+486,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Synonyms,0.47
+487,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Paraphrase,2.3
+488,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Keyboard Typos,3.16
+489,Immigration and its Effects,Q129,Llama-3.2-1B-Instruct,Paraphrase x Reversed,14.17
+490,Immigration and its Effects,Q129,Gemini-1.5-Pro,Missing Refusal,0.0
+491,Immigration and its Effects,Q129,Gemini-1.5-Pro,Even Scale,5.68
+492,Immigration and its Effects,Q129,Gemini-1.5-Pro,Reversed Answer Options,0.0
+493,Immigration and its Effects,Q129,Gemini-1.5-Pro,Emotional Priming,2.84
+494,Immigration and its Effects,Q129,Gemini-1.5-Pro,Key Typos,2.84
+495,Immigration and its Effects,Q129,Gemini-1.5-Pro,Letter Swap,0.62
+496,Immigration and its Effects,Q129,Gemini-1.5-Pro,Synonyms,5.68
+497,Immigration and its Effects,Q129,Gemini-1.5-Pro,Paraphrase,2.84
+498,Immigration and its Effects,Q129,Gemini-1.5-Pro,Keyboard Typos,8.52
+499,Immigration and its Effects,Q129,Gemini-1.5-Pro,Paraphrase x Reversed,14.2
+500,Immigration and its Effects,Q129,Phi-3.5-mini,Missing Refusal,2.84
+501,Immigration and its Effects,Q129,Phi-3.5-mini,Even Scale,17.03
+502,Immigration and its Effects,Q129,Phi-3.5-mini,Reversed Answer Options,8.52
+503,Immigration and its Effects,Q129,Phi-3.5-mini,Emotional Priming,0.0
+504,Immigration and its Effects,Q129,Phi-3.5-mini,Key Typos,8.52
+505,Immigration and its Effects,Q129,Phi-3.5-mini,Letter Swap,2.84
+506,Immigration and its Effects,Q129,Phi-3.5-mini,Synonyms,2.84
+507,Immigration and its Effects,Q129,Phi-3.5-mini,Paraphrase,8.52
+508,Immigration and its Effects,Q129,Phi-3.5-mini,Keyboard Typos,11.36
+509,Immigration and its Effects,Q129,Phi-3.5-mini,Paraphrase x Reversed,5.68
+510,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Missing Refusal,0.0
+511,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Even Scale,17.03
+512,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Reversed Answer Options,0.0
+513,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Emotional Priming,0.0
+514,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Key Typos,0.0
+515,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Letter Swap,0.0
+516,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Synonyms,0.0
+517,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Paraphrase,0.0
+518,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Keyboard Typos,0.0
+519,Immigration and its Effects,Q129,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,0.0
+520,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Missing Refusal,2.72
+521,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Even Scale,14.09
+522,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Reversed Answer Options,8.54
+523,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Emotional Priming,5.68
+524,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Key Typos,6.93
+525,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Letter Swap,4.61
+526,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Synonyms,2.72
+527,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Paraphrase,8.4
+528,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Keyboard Typos,4.14
+529,Immigration and its Effects,Q129,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,8.4
+530,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Missing Refusal,0.0
+531,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Even Scale,8.52
+532,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Reversed Answer Options,0.0
+533,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Emotional Priming,8.52
+534,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Key Typos,11.36
+535,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Letter Swap,11.36
+536,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Synonyms,5.68
+537,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Paraphrase,11.36
+538,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Keyboard Typos,14.2
+539,Immigration and its Effects,Q129,Yi-1.5-6B-Chat,Paraphrase x Reversed,0.0
+540,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Missing Refusal,1.09
+541,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Even Scale,12.17
+542,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Reversed Answer Options,5.87
+543,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Emotional Priming,6.05
+544,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Key Typos,7.19
+545,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Letter Swap,9.57
+546,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Synonyms,11.81
+547,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Paraphrase,7.53
+548,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Keyboard Typos,9.57
+549,Moral and Ethical Justifiability,Q195,Llama-3.3-70B-Instruct,Paraphrase x Reversed,5.88
+550,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Missing Refusal,11.8
+551,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Even Scale,7.91
+552,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Reversed Answer Options,14.08
+553,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Emotional Priming,2.59
+554,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Key Typos,1.48
+555,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Letter Swap,2.3
+556,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Synonyms,0.55
+557,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Paraphrase,8.42
+558,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Keyboard Typos,3.83
+559,Moral and Ethical Justifiability,Q195,Llama-3.1-8B-Instruct,Paraphrase x Reversed,10.12
+560,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Missing Refusal,2.02
+561,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Even Scale,0.77
+562,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Reversed Answer Options,7.08
+563,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Emotional Priming,2.2
+564,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Key Typos,10.71
+565,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Letter Swap,9.2
+566,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Synonyms,1.53
+567,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Paraphrase,5.46
+568,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Keyboard Typos,7.45
+569,Moral and Ethical Justifiability,Q195,Llama-3.2-3B-Instruct,Paraphrase x Reversed,9.86
+570,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Missing Refusal,5.64
+571,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Even Scale,0.59
+572,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Reversed Answer Options,5.32
+573,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Emotional Priming,3.21
+574,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Key Typos,7.52
+575,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Letter Swap,4.18
+576,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Synonyms,3.44
+577,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Paraphrase,5.12
+578,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Keyboard Typos,3.93
+579,Moral and Ethical Justifiability,Q195,Llama-3.2-1B-Instruct,Paraphrase x Reversed,6.42
+580,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Missing Refusal,4.87
+581,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Even Scale,12.17
+582,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Reversed Answer Options,2.43
+583,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Emotional Priming,0.02
+584,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Key Typos,2.47
+585,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Letter Swap,0.39
+586,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Synonyms,7.5
+587,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Paraphrase,7.3
+588,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Keyboard Typos,2.43
+589,Moral and Ethical Justifiability,Q195,Gemini-1.5-Pro,Paraphrase x Reversed,7.3
+590,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Missing Refusal,12.17
+591,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Even Scale,12.17
+592,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Reversed Answer Options,7.3
+593,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Emotional Priming,9.73
+594,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Key Typos,9.73
+595,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Letter Swap,12.17
+596,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Synonyms,7.3
+597,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Paraphrase,9.73
+598,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Keyboard Typos,9.73
+599,Moral and Ethical Justifiability,Q195,Phi-3.5-mini,Paraphrase x Reversed,9.73
+600,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Missing Refusal,4.87
+601,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Even Scale,14.6
+602,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Reversed Answer Options,7.3
+603,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Emotional Priming,2.43
+604,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Key Typos,4.87
+605,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Letter Swap,7.3
+606,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Synonyms,2.43
+607,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Paraphrase,9.73
+608,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Keyboard Typos,4.87
+609,Moral and Ethical Justifiability,Q195,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,9.73
+610,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Missing Refusal,11.24
+611,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Even Scale,11.02
+612,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Reversed Answer Options,11.13
+613,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Emotional Priming,1.83
+614,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Key Typos,3.12
+615,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Letter Swap,4.06
+616,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Synonyms,6.29
+617,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Paraphrase,4.03
+618,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Keyboard Typos,6.43
+619,Moral and Ethical Justifiability,Q195,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,11.04
+620,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Missing Refusal,17.03
+621,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Even Scale,14.6
+622,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Reversed Answer Options,14.6
+623,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Emotional Priming,12.17
+624,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Key Typos,12.17
+625,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Letter Swap,14.6
+626,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Synonyms,12.17
+627,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Paraphrase,14.6
+628,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Keyboard Typos,14.6
+629,Moral and Ethical Justifiability,Q195,Yi-1.5-6B-Chat,Paraphrase x Reversed,17.03
+630,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Missing Refusal,0.0
+631,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Even Scale,11.36
+632,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Reversed Answer Options,14.2
+633,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Emotional Priming,0.0
+634,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Key Typos,8.52
+635,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Letter Swap,0.0
+636,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Synonyms,0.0
+637,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Paraphrase,0.0
+638,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Keyboard Typos,5.82
+639,Political and Social Activism,Q220,Llama-3.3-70B-Instruct,Paraphrase x Reversed,5.89
+640,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Missing Refusal,0.0
+641,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Even Scale,11.95
+642,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Reversed Answer Options,1.62
+643,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Emotional Priming,0.0
+644,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Key Typos,0.08
+645,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Letter Swap,0.02
+646,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Synonyms,0.09
+647,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Paraphrase,5.94
+648,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Keyboard Typos,0.16
+649,Political and Social Activism,Q220,Llama-3.1-8B-Instruct,Paraphrase x Reversed,9.14
+650,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Missing Refusal,3.66
+651,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Even Scale,6.15
+652,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Reversed Answer Options,0.52
+653,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Emotional Priming,2.21
+654,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Key Typos,1.46
+655,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Letter Swap,1.3
+656,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Synonyms,2.24
+657,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Paraphrase,6.17
+658,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Keyboard Typos,4.11
+659,Political and Social Activism,Q220,Llama-3.2-3B-Instruct,Paraphrase x Reversed,6.24
+660,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Missing Refusal,1.07
+661,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Even Scale,1.67
+662,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Reversed Answer Options,0.72
+663,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Emotional Priming,1.59
+664,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Key Typos,1.02
+665,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Letter Swap,0.95
+666,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Synonyms,0.15
+667,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Paraphrase,3.8
+668,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Keyboard Typos,3.52
+669,Political and Social Activism,Q220,Llama-3.2-1B-Instruct,Paraphrase x Reversed,3.61
+670,Political and Social Activism,Q220,Gemini-1.5-Pro,Missing Refusal,2.84
+671,Political and Social Activism,Q220,Gemini-1.5-Pro,Even Scale,11.36
+672,Political and Social Activism,Q220,Gemini-1.5-Pro,Reversed Answer Options,3.03
+673,Political and Social Activism,Q220,Gemini-1.5-Pro,Emotional Priming,5.68
+674,Political and Social Activism,Q220,Gemini-1.5-Pro,Key Typos,5.68
+675,Political and Social Activism,Q220,Gemini-1.5-Pro,Letter Swap,8.52
+676,Political and Social Activism,Q220,Gemini-1.5-Pro,Synonyms,8.52
+677,Political and Social Activism,Q220,Gemini-1.5-Pro,Paraphrase,11.36
+678,Political and Social Activism,Q220,Gemini-1.5-Pro,Keyboard Typos,8.52
+679,Political and Social Activism,Q220,Gemini-1.5-Pro,Paraphrase x Reversed,17.03
+680,Political and Social Activism,Q220,Phi-3.5-mini,Missing Refusal,0.0
+681,Political and Social Activism,Q220,Phi-3.5-mini,Even Scale,17.03
+682,Political and Social Activism,Q220,Phi-3.5-mini,Reversed Answer Options,5.68
+683,Political and Social Activism,Q220,Phi-3.5-mini,Emotional Priming,0.0
+684,Political and Social Activism,Q220,Phi-3.5-mini,Key Typos,5.68
+685,Political and Social Activism,Q220,Phi-3.5-mini,Letter Swap,0.0
+686,Political and Social Activism,Q220,Phi-3.5-mini,Synonyms,0.0
+687,Political and Social Activism,Q220,Phi-3.5-mini,Paraphrase,0.0
+688,Political and Social Activism,Q220,Phi-3.5-mini,Keyboard Typos,2.84
+689,Political and Social Activism,Q220,Phi-3.5-mini,Paraphrase x Reversed,0.0
+690,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Missing Refusal,5.68
+691,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Even Scale,11.36
+692,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Reversed Answer Options,2.84
+693,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Emotional Priming,5.68
+694,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Key Typos,11.36
+695,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Letter Swap,8.52
+696,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Synonyms,11.36
+697,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Paraphrase,8.52
+698,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Keyboard Typos,11.36
+699,Political and Social Activism,Q220,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,11.36
+700,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Missing Refusal,6.59
+701,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Even Scale,8.51
+702,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Reversed Answer Options,12.96
+703,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Emotional Priming,3.91
+704,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Key Typos,5.58
+705,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Letter Swap,2.82
+706,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Synonyms,4.52
+707,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Paraphrase,8.31
+708,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Keyboard Typos,8.36
+709,Political and Social Activism,Q220,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,11.17
+710,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Missing Refusal,5.68
+711,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Even Scale,17.03
+712,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Reversed Answer Options,17.03
+713,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Emotional Priming,8.52
+714,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Key Typos,8.52
+715,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Letter Swap,5.68
+716,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Synonyms,5.68
+717,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Paraphrase,11.36
+718,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Keyboard Typos,5.68
+719,Political and Social Activism,Q220,Yi-1.5-6B-Chat,Paraphrase x Reversed,17.03
+720,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Missing Refusal,0.25
+721,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Even Scale,7.16
+722,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Reversed Answer Options,5.63
+723,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Emotional Priming,0.18
+724,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Key Typos,0.35
+725,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Letter Swap,2.57
+726,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Synonyms,2.79
+727,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Paraphrase,8.7
+728,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Keyboard Typos,0.22
+729,Perception of Elections,Q230,Llama-3.3-70B-Instruct,Paraphrase x Reversed,11.31
+730,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Missing Refusal,8.81
+731,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Even Scale,1.81
+732,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Reversed Answer Options,9.1
+733,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Emotional Priming,0.18
+734,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Key Typos,0.8
+735,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Letter Swap,0.32
+736,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Synonyms,3.38
+737,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Paraphrase,1.2
+738,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Keyboard Typos,0.4
+739,Perception of Elections,Q230,Llama-3.1-8B-Instruct,Paraphrase x Reversed,8.77
+740,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Missing Refusal,9.31
+741,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Even Scale,0.4
+742,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Reversed Answer Options,6.04
+743,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Emotional Priming,0.74
+744,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Key Typos,2.97
+745,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Letter Swap,1.38
+746,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Synonyms,0.68
+747,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Paraphrase,4.1
+748,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Keyboard Typos,0.7
+749,Perception of Elections,Q230,Llama-3.2-3B-Instruct,Paraphrase x Reversed,6.64
+750,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Missing Refusal,0.94
+751,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Even Scale,6.17
+752,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Reversed Answer Options,12.92
+753,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Emotional Priming,2.72
+754,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Key Typos,0.74
+755,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Letter Swap,1.08
+756,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Synonyms,1.0
+757,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Paraphrase,0.51
+758,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Keyboard Typos,0.5
+759,Perception of Elections,Q230,Llama-3.2-1B-Instruct,Paraphrase x Reversed,14.19
+760,Perception of Elections,Q230,Gemini-1.5-Pro,Missing Refusal,6.41
+761,Perception of Elections,Q230,Gemini-1.5-Pro,Even Scale,9.85
+762,Perception of Elections,Q230,Gemini-1.5-Pro,Reversed Answer Options,10.85
+763,Perception of Elections,Q230,Gemini-1.5-Pro,Emotional Priming,6.44
+764,Perception of Elections,Q230,Gemini-1.5-Pro,Key Typos,7.74
+765,Perception of Elections,Q230,Gemini-1.5-Pro,Letter Swap,4.88
+766,Perception of Elections,Q230,Gemini-1.5-Pro,Synonyms,3.43
+767,Perception of Elections,Q230,Gemini-1.5-Pro,Paraphrase,6.36
+768,Perception of Elections,Q230,Gemini-1.5-Pro,Keyboard Typos,4.89
+769,Perception of Elections,Q230,Gemini-1.5-Pro,Paraphrase x Reversed,16.8
+770,Perception of Elections,Q230,Phi-3.5-mini,Missing Refusal,5.68
+771,Perception of Elections,Q230,Phi-3.5-mini,Even Scale,5.68
+772,Perception of Elections,Q230,Phi-3.5-mini,Reversed Answer Options,14.2
+773,Perception of Elections,Q230,Phi-3.5-mini,Emotional Priming,5.68
+774,Perception of Elections,Q230,Phi-3.5-mini,Key Typos,5.68
+775,Perception of Elections,Q230,Phi-3.5-mini,Letter Swap,8.52
+776,Perception of Elections,Q230,Phi-3.5-mini,Synonyms,5.68
+777,Perception of Elections,Q230,Phi-3.5-mini,Paraphrase,14.2
+778,Perception of Elections,Q230,Phi-3.5-mini,Keyboard Typos,8.52
+779,Perception of Elections,Q230,Phi-3.5-mini,Paraphrase x Reversed,14.2
+780,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Missing Refusal,5.68
+781,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Even Scale,11.36
+782,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Reversed Answer Options,2.84
+783,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Emotional Priming,2.84
+784,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Key Typos,5.68
+785,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Letter Swap,8.52
+786,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Synonyms,5.68
+787,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Paraphrase,11.36
+788,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Keyboard Typos,8.52
+789,Perception of Elections,Q230,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,14.2
+790,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Missing Refusal,15.44
+791,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Even Scale,2.33
+792,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Reversed Answer Options,4.75
+793,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Emotional Priming,6.93
+794,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Key Typos,1.25
+795,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Letter Swap,1.36
+796,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Synonyms,4.2
+797,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Paraphrase,4.2
+798,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Keyboard Typos,1.25
+799,Perception of Elections,Q230,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,5.56
+800,Perception of Elections,Q230,Yi-1.5-6B-Chat,Missing Refusal,2.84
+801,Perception of Elections,Q230,Yi-1.5-6B-Chat,Even Scale,2.84
+802,Perception of Elections,Q230,Yi-1.5-6B-Chat,Reversed Answer Options,14.2
+803,Perception of Elections,Q230,Yi-1.5-6B-Chat,Emotional Priming,2.84
+804,Perception of Elections,Q230,Yi-1.5-6B-Chat,Key Typos,8.52
+805,Perception of Elections,Q230,Yi-1.5-6B-Chat,Letter Swap,8.52
+806,Perception of Elections,Q230,Yi-1.5-6B-Chat,Synonyms,2.84
+807,Perception of Elections,Q230,Yi-1.5-6B-Chat,Paraphrase,11.36
+808,Perception of Elections,Q230,Yi-1.5-6B-Chat,Keyboard Typos,2.84
+809,Perception of Elections,Q230,Yi-1.5-6B-Chat,Paraphrase x Reversed,11.36
+810,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Missing Refusal,0.05
+811,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Even Scale,8.52
+812,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Reversed Answer Options,2.84
+813,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Emotional Priming,2.84
+814,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Key Typos,5.68
+815,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Letter Swap,5.8
+816,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Synonyms,2.84
+817,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Paraphrase,2.84
+818,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Keyboard Typos,11.36
+819,Perception of Democracy,Q248,Llama-3.3-70B-Instruct,Paraphrase x Reversed,2.85
+820,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Missing Refusal,6.43
+821,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Even Scale,7.02
+822,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Reversed Answer Options,2.33
+823,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Emotional Priming,1.55
+824,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Key Typos,3.5
+825,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Letter Swap,1.8
+826,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Synonyms,1.01
+827,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Paraphrase,7.17
+828,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Keyboard Typos,1.65
+829,Perception of Democracy,Q248,Llama-3.1-8B-Instruct,Paraphrase x Reversed,9.2
+830,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Missing Refusal,1.54
+831,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Even Scale,6.68
+832,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Reversed Answer Options,5.03
+833,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Emotional Priming,0.83
+834,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Key Typos,6.0
+835,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Letter Swap,2.58
+836,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Synonyms,0.24
+837,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Paraphrase,5.26
+838,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Keyboard Typos,1.94
+839,Perception of Democracy,Q248,Llama-3.2-3B-Instruct,Paraphrase x Reversed,8.7
+840,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Missing Refusal,1.0
+841,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Even Scale,0.76
+842,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Reversed Answer Options,2.0
+843,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Emotional Priming,4.6
+844,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Key Typos,5.5
+845,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Letter Swap,3.19
+846,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Synonyms,1.87
+847,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Paraphrase,9.93
+848,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Keyboard Typos,6.54
+849,Perception of Democracy,Q248,Llama-3.2-1B-Instruct,Paraphrase x Reversed,7.87
+850,Perception of Democracy,Q248,Gemini-1.5-Pro,Missing Refusal,0.0
+851,Perception of Democracy,Q248,Gemini-1.5-Pro,Even Scale,5.68
+852,Perception of Democracy,Q248,Gemini-1.5-Pro,Reversed Answer Options,0.0
+853,Perception of Democracy,Q248,Gemini-1.5-Pro,Emotional Priming,0.0
+854,Perception of Democracy,Q248,Gemini-1.5-Pro,Key Typos,0.54
+855,Perception of Democracy,Q248,Gemini-1.5-Pro,Letter Swap,2.84
+856,Perception of Democracy,Q248,Gemini-1.5-Pro,Synonyms,2.84
+857,Perception of Democracy,Q248,Gemini-1.5-Pro,Paraphrase,5.68
+858,Perception of Democracy,Q248,Gemini-1.5-Pro,Keyboard Typos,0.0
+859,Perception of Democracy,Q248,Gemini-1.5-Pro,Paraphrase x Reversed,5.68
+860,Perception of Democracy,Q248,Phi-3.5-mini,Missing Refusal,2.84
+861,Perception of Democracy,Q248,Phi-3.5-mini,Even Scale,17.03
+862,Perception of Democracy,Q248,Phi-3.5-mini,Reversed Answer Options,5.68
+863,Perception of Democracy,Q248,Phi-3.5-mini,Emotional Priming,8.52
+864,Perception of Democracy,Q248,Phi-3.5-mini,Key Typos,5.68
+865,Perception of Democracy,Q248,Phi-3.5-mini,Letter Swap,2.84
+866,Perception of Democracy,Q248,Phi-3.5-mini,Synonyms,2.84
+867,Perception of Democracy,Q248,Phi-3.5-mini,Paraphrase,8.52
+868,Perception of Democracy,Q248,Phi-3.5-mini,Keyboard Typos,5.68
+869,Perception of Democracy,Q248,Phi-3.5-mini,Paraphrase x Reversed,5.68
+870,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Missing Refusal,2.84
+871,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Even Scale,8.52
+872,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Reversed Answer Options,5.68
+873,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Emotional Priming,0.0
+874,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Key Typos,8.52
+875,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Letter Swap,8.52
+876,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Synonyms,2.84
+877,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Paraphrase,8.52
+878,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Keyboard Typos,8.52
+879,Perception of Democracy,Q248,Mistral-7B-Instruct-v0.3,Paraphrase x Reversed,5.68
+880,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Missing Refusal,2.77
+881,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Even Scale,11.4
+882,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Reversed Answer Options,7.4
+883,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Emotional Priming,6.13
+884,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Key Typos,11.64
+885,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Letter Swap,3.36
+886,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Synonyms,7.56
+887,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Paraphrase,12.78
+888,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Keyboard Typos,11.02
+889,Perception of Democracy,Q248,Qwen-2.5-7B-Instruct,Paraphrase x Reversed,8.3
+890,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Missing Refusal,11.36
+891,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Even Scale,8.52
+892,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Reversed Answer Options,5.68
+893,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Emotional Priming,8.52
+894,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Key Typos,2.84
+895,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Letter Swap,11.36
+896,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Synonyms,11.36
+897,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Paraphrase,17.03
+898,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Keyboard Typos,11.36
+899,Perception of Democracy,Q248,Yi-1.5-6B-Chat,Paraphrase x Reversed,8.52
